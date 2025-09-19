@@ -19,8 +19,7 @@ Campus Campina Grande
 Desenvolvimento de um sistema de automação residencial inteligente baseado em IoT, com foco em controle remoto, monitoramento e integração com a nuvem. Este repositório contém a implementação do **Gateway IoT (Grupo 2)**, responsável pela comunicação entre os dispositivos finais (Grupo 1) e a infraestrutura em nuvem (Grupo 3).
 
 ## 🌐 Arquitetura
-A arquitetura do sistema pode ser visualizada através do diagrama completo no **Lucidchart**.
-
+A arquitetura do sistema pode ser visualizada através do diagrama completo no arquivo arquitetura do próprio repositório.
 ---
 
 ## ⚙️ Justificativa das Tecnologias
@@ -110,13 +109,5 @@ A arquitetura do sistema pode ser visualizada através do diagrama completo no *
 - **TLS/SSL**: Segurança na comunicação.
 - **FreeRTOS**: Sistema operacional em tempo real.
 
----
 
-## 📈 Contribuições
-Se você deseja contribuir para o projeto, sinta-se à vontade para abrir um **Pull Request**. Para mais informações sobre como contribuir, consulte nosso [guia de contribuição](#).
-
----
-
-## 📝 Licença
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais informações.
 
