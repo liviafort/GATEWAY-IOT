@@ -13,7 +13,7 @@ Campus Campina Grande
 - **Disraeli Michelangelo Rafael da Costa Filho**
 
 ## 📅 Projeto
-**Projeto de IoT - 2025.1**
+**Projeto de IoT - 2025.2**
 
 ## 📋 Descrição
 Desenvolvimento de um sistema de automação residencial inteligente baseado em IoT, com foco em controle remoto, monitoramento e integração com a nuvem. Este repositório contém a implementação do **Gateway IoT (Grupo 2)**, responsável pela comunicação entre os dispositivos finais (Grupo 1) e a infraestrutura em nuvem (Grupo 3).
