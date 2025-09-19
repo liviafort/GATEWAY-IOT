@@ -1,0 +1,2 @@
+# GATEWAY-IOT
+Projeto de IOT 2025.2
